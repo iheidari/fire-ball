@@ -6,7 +6,7 @@ import EditProfile from "../EditProfile";
 function App() {
   return (
     <Router>
-      <nav>
+      <nav className="nav">
         <ul>
           <li>
             <Link to="/">Home</Link>
